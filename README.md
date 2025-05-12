@@ -42,9 +42,6 @@ Here are some ideas to get you started:
 ## Skills 💻
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JNarimatsu&theme=transparent&bg_color=F4F6FF&border_color=10375C&show_icons=true&icon_color=F3C623&title_color=EB8317&text_color=102E50)
  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JNarimatsu&bg_color=F4F6FF&border_color=10375C&title_color=EB8317&text_color=10375C)
-## Projects 🕹️
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JNarimatsu&repo=Teacher_Hionne&bg_color=F4F6FF&border_color=10375C&show_icons=true&icon_color=F3C623&title_color=EB8317&text_color=102E50)](https://github.com/JNarimatsu/Teacher_Hionne)
 
-[![Repo Card_02](https://github-readme-stats.vercel.app/api/pin/?username=JNarimatsu&repo=Zeroaoprimeiro&bg_color=F4F6FF&border_color=10375C&show_icons=true&icon_color=F3C623&title_color=EB8317&text_color=102E50)]([https://github.com/JNarimatsu/Teacher_Hionne](https://github.com/JNarimatsu/Asimov_Cursos))
 
 
