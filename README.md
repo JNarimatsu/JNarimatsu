@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## Skills 💻
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JNarimatsu&theme=transparent&bg_color=F4F6FF&border_color=10375C&show_icons=true&icon_color=F3C623&title_color=EB8317&text_color=102E50)
-
+[![JNarimatsu](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
