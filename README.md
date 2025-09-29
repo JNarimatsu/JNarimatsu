@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-de-quental/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@juliana_narimatsu/)
 
-- 📊 Data Science Student [1/5]
+- 📊 Data Science Student [2/5]
 - 👩‍🎓Systems Analysis and Development [Completed]
 
 ## Technologies 🛠️
