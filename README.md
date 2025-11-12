@@ -1,47 +1,215 @@
+<img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
 
+## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Mir Sazzat Hossain!](https://mirsazzathossain.me/) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://komarev.com/ghpvc/?username=mirsazzathossain" height="20px">
 
-<!--
-**JNarimatsu/JNarimatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Junior Research Scientist** 🧑‍🔬 at the [**Center for Computational and Data Sciences (CCDS), IUB**](http://ccds.ai/) 🏛️, with a strong background in **computer vision** and **machine learning** 💻. Over the past two years, I have actively contributed to these fields, publishing research articles in well-regarded conferences such as **ICIP** and **IJCNN** 🔬. My primary research interests revolve around **computer vision** and solving real-world problems using cutting-edge techniques ✨. 
 
-Here are some ideas to get you started:
+Currently, I am working on projects including **domain adaptation**, **Mixture-of-Experts** for **large multi-modal models (LMMS)**, **protein dynamics prediction** using **3D CNNs**, and **particle jet tagging** with **graph neural networks** 🔥. I am passionate about learning new topics, contributing to **groundbreaking research**, and sharing valuable insights that help others 🤓. 
 
-- 📔 I’m currently working on Data Science
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out to discuss **ideas** or ask research-related questions 💬!
 
+<p><a href="https://www.facebook.com/mirsazzathossainn/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:mirsazzathossain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/mir_sazzat"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
+<br>
 
-# Juliana Narimatsu
+## ⚡ A Few Quick Facts:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-de-quental/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@juliana_narimatsu/)
+<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
 
-- 📊 Data Science Student [2/5]
-- 👩‍🎓Systems Analysis and Development [Completed]
+- 🔭 Currently Working on several Computer Vision projects.
+- 🧮 Expanding my knowledge in differential geometry and Lie algebra.
+- 👯 Eager to collaborate on exciting Computer Vision research projects.
+- 🤔 Actively looking for Ph.D. opportunities in computer vision and machine learning.
+- 💬 Ask me about anything related to cutting-edge tech and research.
+- 📫 Reach me at: [Gmail](mailto:mirsazzathossain@gmail.com)
+- 😄 Pronouns: He/Him
+- 🧾 Check out my [resume](https://mirsazzathossain.me/files/mirsazzathossain-cv.pdf).
+- 📝 I sometimes write articles on [my blog](https://mirsazzathossain.me/articles).
+- ⚡ Fun fact: I spend more time thinking about blog posts than writing them 🤣
 
-## Technologies 🛠️
-<div style="display: inline_block"><br>
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-  <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>                   
-  <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Pypi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+&nbsp;&nbsp;&nbsp;&nbsp;If you like what I do, maybe consider buying me a coffee/tea...
 
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/mirsazzat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" style="margin-left: 10px" ></a>
+<br>
+
+## 🛠️ Languages and Tools I use:
+
+<p align="center"> 
+    <!-- Languages -->
+    <a href="https://www.python.org" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.java.com" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.javascript.com" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></code> 
+    </a> 
+    <!-- Frameworks / Libraries -->
+    <a href="https://pytorch.org/" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://pytorch-lightning.readthedocs.io/en/stable/" target="_blank"> 
+        <code><img src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/lightning.png" alt="pytorch-lightning" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.tensorflow.org" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://opencv.org/" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://reactjs.org/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://nextjs.org/" target="_blank"> 
+        <code><img src="https://nextjs.org/static/favicon/favicon.ico" alt="nextjs" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://tailwindcss.com/" target="_blank"> 
+        <code><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwindcss" width="35" height="35"/></code> 
+    </a>
+    <!-- Tools -->
+    <a href="https://git-scm.com/" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://code.visualstudio.com" target="_blank">
+        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/></code>
+    </a> 
+    <!-- Cloud & Databases -->
+    <a href="https://www.mongodb.com/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://aws.amazon.com" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35"/></code> 
+    </a>
+</p>
+<br>
+
+## 🎧 Spotify Playing:
+
+<p align="center">
+    <a href="https://open.spotify.com/user/6stg0uh40gbo4bd99reck41s6" target="_blank"> 
+        <img width="100%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="Sazzat's Spotify" />
+    </a>
+</p>
+<br>
+
+## 🏆 GitHub Trophies:
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mirsazzathossain&column=8&row=1">
+</p>
+<br>
+
+## 📈 GitHub Contribution Graph:
+
+<div align="center">
+    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=mirsazzathossain&theme=minimal"/>
 </div>
+<br>
+
+## 📊 GitHub Stats:
+
+<img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsazzathossain&theme=white&&hide_border=true" width='48%' /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+<br>
+
+## 🚧 Open source projects:
+
+<table align="center">
+    <thead align="center">
+        <tr border: none;>
+            <td><b>🎁 Projects</b></td>
+            <td><b>⭐ Stars</b></td>
+            <td><b>📚 Forks</b></td>
+            <td><b>🛎 Issues</b></td>
+            <td><b>📬 Pull requests</b></td>
+            <td><b>👨‍💻 Language</b></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/mirsazzathossain/mirsazzathossain.me.git"><b>mirsazzathossain.me</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Language" src="https://img.shields.io/github/languages/top/mirsazzathossain/mirsazzathossain.me?style=flat-square"/></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+## 🕑 Wakatime Stats:
+
+<!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 📦 1.8 MB Used in GitHub's Storage 
+ > 
+> 🏆 119 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 33 Public Repositories 
+ > 
+> 🔑 30 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                594 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+🌆 Daytime                2865 commits        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+🌃 Evening                2875 commits        ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+🌙 Night                  3483 commits        █████████░░░░░░░░░░░░░░░░   35.48 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2008 commits        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Tuesday                  1468 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Wednesday                1481 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Thursday                 845 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Friday                   1847 commits        █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+Saturday                 1156 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Sunday                   1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+C#                       2 hrs 39 mins       █████████████████████████   99.99 % 
+XAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+Cursor                   2 hrs 39 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+AIChatBot                2 hrs 39 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  2 hrs 39 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   22 repos            █████████░░░░░░░░░░░░░░░░   36.07 % 
+Jupyter Notebook         12 repos            █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+JavaScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+```
 
 
 
-## Skills 💻
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JNarimatsu&theme=transparent&bg_color=F4F6FF&border_color=10375C&show_icons=true&icon_color=F3C623&title_color=EB8317&text_color=102E50)
-[![JNarimatsu](https://github-readme-stats.vercel.app/api/top-langs/?username=JNarimatsu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--END_SECTION:waka-->
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
