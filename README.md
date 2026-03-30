@@ -35,58 +35,59 @@ If you like my work, how about a chat?
 
 ## 🛠️ Languages and Tools I use:
 
-<p align="center"> 
-    <!-- Languages Data Science -->
-    <a href="https://www.python.org" target="_blank"> 
-        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="35" height="35"/></code> 
-    </a>  
-    
-    <!-- Frameworks / Libraries -->
-      <a href="https://pandas.pydata.org/pandas-docs/stable/index.html" target="_blank"> 
-        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://numpy.org/" target="_blank"> 
-        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="35" height="35"/></code> 
-    </a>
-    <a href="https://matplotlib.org/" target="_blank"> 
-        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="35" height="35"/></code> 
-    </a>
-    <!-- Tools -->
-    <a href="https://git-scm.com/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://code.visualstudio.com" target="_blank">
-        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/></code>
-    </a> 
-      <a href="https://jupyter.org/" target="_blank">
-        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="35" height="35"/></code>
-    </a> 
-    </a> 
-      <a href="https://colab.research.google.com/" target="_blank">
-        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" alt="GoogleColab" width="35" height="35"/></code>
-    </a> 
-    <!-- Cloud & Databases -->
-    <a href="https://www.mysql.com/" target="_blank"> 
-        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.postgresql.org/" target="_blank"> 
-        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" height="35"/></code> 
-    </a>
-    <a href="https://www.w3schools.com/sql/" target="_blank"> 
-        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="35" height="35"/></code> 
-    </a>
-     <!-- Languages Extra -->
-    <a href="https://www.javascript.com" target="_blank"> 
-        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.w3schools.com/html/" target="_blank"> 
-        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/></code> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="35" height="35"/></code> 
-    </a>
+<p align="center">
+  <!-- Languages Data Science -->
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="35" height="35"/>
+  </a>
+  
+  <!-- Frameworks / Libraries -->
+  <a href="https://pandas.pydata.org/pandas-docs/stable/index.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="35" height="35"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="35" height="35"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="35" height="35"/>
+  </a>
+  
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/>
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="35" height="35"/>
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" alt="GoogleColab" width="35" height="35"/>
+  </a>
+  
+  <!-- Cloud & Databases -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="35" height="35"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" height="35"/>
+  </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="35" height="35"/>
+  </a>
+  
+  <!-- Languages Extra -->
+  <a href="https://www.javascript.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="35" height="35"/>
+  </a>
 </p>
-<br>
 
 
 ## 📈 GitHub Contribution Graph:
