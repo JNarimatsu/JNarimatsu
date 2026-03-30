@@ -36,19 +36,11 @@ If you like my work, how about a chat?
 ## 🛠️ Languages and Tools I use:
 
 <p align="center"> 
-    <!-- Languages -->
+    <!-- Languages Data Science -->
     <a href="https://www.python.org" target="_blank"> 
         <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="35" height="35"/></code> 
     </a>  
-    <a href="https://www.javascript.com" target="_blank"> 
-        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.w3schools.com/html/" target="_blank"> 
-        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/></code> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="35" height="35"/></code> 
-    </a>
+    
     <!-- Frameworks / Libraries -->
       <a href="https://pandas.pydata.org/pandas-docs/stable/index.html" target="_blank"> 
         <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="35" height="35"/></code> 
@@ -82,6 +74,16 @@ If you like my work, how about a chat?
     </a>
     <a href="https://www.w3schools.com/sql/" target="_blank"> 
         <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="35" height="35"/></code> 
+    </a>
+     <!-- Languages Extra -->
+    <a href="https://www.javascript.com" target="_blank"> 
+        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.w3schools.com/html/" target="_blank"> 
+        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/></code> 
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="35" height="35"/></code> 
     </a>
 </p>
 <br>
